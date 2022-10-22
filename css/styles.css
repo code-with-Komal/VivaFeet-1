@@ -629,7 +629,7 @@ input[type='checkbox'] {
 	font: 700 0.875rem/0.875rem "Open Sans", sans-serif;
 	transition: all 0.2s;
 }
-
+/* 
 .navbar-custom .navbar-brand.logo-image img {
     width: 6.6875rem;
 	height: 2.25rem;
@@ -639,7 +639,7 @@ input[type='checkbox'] {
 	font: 700 2rem/1rem "Open Sans", sans-serif;
 	color: #333;
 	text-decoration: none;
-}
+} */
 
 .navbar-custom .navbar-nav {
 	margin-top: 0.75rem;
